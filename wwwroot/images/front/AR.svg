@@ -1,0 +1,7 @@
+<svg id="AR" xmlns="http://www.w3.org/2000/svg" width="30" height="16" viewBox="0 0 30 16">
+  <g id="Rectangle_" data-name="Rectangle " fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="30" height="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="29" height="15" fill="none"/>
+  </g>
+  <path id="AR-2" data-name="AR" d="M.192.8H1.965L3.085-1.823H9.641L10.762.8h1.773l-5.252-12H5.444ZM3.754-3.366l2.609-6.1,2.609,6.1ZM14.241.8h1.622V-3.417h2.659L22.118.8h2.074L20.5-3.486a3.67,3.67,0,0,0,3.211-3.823A3.757,3.757,0,0,0,19.626-11.2H14.241Zm1.622-5.777V-9.64h3.8a2.211,2.211,0,0,1,2.425,2.331A2.2,2.2,0,0,1,19.66-4.977Z" transform="translate(3.28 13.2)" fill="#fff"/>
+</svg>

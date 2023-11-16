@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="footer-logo" transform="translate(-1477.834 -8193.834)">
+    <g id="Rectangle_" data-name="Rectangle " transform="translate(1477.834 8193.834)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="20" height="20" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" rx="9.5" fill="none"/>
+    </g>
+    <path id="Icon_map" data-name="Icon map" d="M9.405,13.24l-1.8-5.36H1.773L13,1.581Z" transform="translate(1479.44 8196.735)" fill="#fff"/>
+  </g>
+</svg>
